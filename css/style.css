@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+}
+
+h2{
+    margin-top: -30px;
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px orangered;
+    text-decoration: overline;
+}
+
+img{
+    float: right;
+    padding: 10px;
+    width: 30px;
+}
+
+footer{
+    position:absolute;
+    bottom:0;
+    width:90%;
+    text-align: right;
+}
